@@ -10,5 +10,6 @@ public class FinalLibFabricClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
         FinalLibClient.init();
+        CompoundTag
     }
 }

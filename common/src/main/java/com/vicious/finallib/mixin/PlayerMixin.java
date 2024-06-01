@@ -2,7 +2,6 @@ package com.vicious.finallib.mixin;
 
 import com.vicious.finallib.common.bridge.IPlayerMixin;
 import com.vicious.finallib.common.guisync.GUISynchronizer;
-import net.minecraft.world.entity.player.Player;
 import org.jetbrains.annotations.Nullable;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;

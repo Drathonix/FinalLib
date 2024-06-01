@@ -3,6 +3,7 @@ package com.vicious.finallib.forge;
 import com.vicious.finallib.FinalLibClient;
 import dev.architectury.platform.forge.EventBuses;
 import com.vicious.finallib.FinalLib;
+import net.minecraft.nbt.CompoundTag;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
